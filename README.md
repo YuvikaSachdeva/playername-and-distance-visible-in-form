@@ -1,1 +1,2 @@
-# playername-and-distance-visible-in-form
+# synchronousBallMovement
+Ball moving synchronously
